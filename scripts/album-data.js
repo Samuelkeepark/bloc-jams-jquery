@@ -1,13 +1,13 @@
 const album = {
-  title: 'The Colors',
-  artist: 'Pablo Picasso',
-  releaseInfo: '1909 Spanish Records',
-  albumArtUrl: 'assets/images/album_covers/01.png',
+  title: 'Voodoo',
+  artist: 'Dangelo',
+  releaseInfo: '2000 Virgin Records',
+  albumArtUrl: 'assets/images/album_covers/voodoo.jpg',
   songs: [
-    { title: 'Blue', duration: '161.71', soundFileUrl: 'assets/music/blue.mp3' },
-    { title: 'Green', duration: '103.96', soundFileUrl: 'assets/music/green.mp3' },
-    { title: 'Red', duration: '268.45', soundFileUrl: 'assets/music/red.mp3' },
-    { title: 'Pink', duration: '153.14', soundFileUrl: 'assets/music/pink.mp3' },
-    { title: 'Magenta', duration: '374.22', soundFileUrl: 'assets/music/magenta.mp3' }
+    { title: 'Playa Playa', duration: '161.71', soundFileUrl: 'assets/music/blue.mp3' },
+    { title: 'Devils Pie', duration: '103.96', soundFileUrl: 'assets/music/green.mp3' },
+    { title: 'Left & Right', duration: '268.45', soundFileUrl: 'assets/music/red.mp3' },
+    { title: 'The Line', duration: '153.14', soundFileUrl: 'assets/music/pink.mp3' },
+    { title: 'Send It On', duration: '374.22', soundFileUrl: 'assets/music/magenta.mp3' }
   ]
 };
